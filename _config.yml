@@ -1,0 +1,5 @@
+title: Erik Jorgensen’s Science Series
+theme: jekyll-theme-minimal
+nav:
+  - Home: index.md
+  - Episodes: videos.md
