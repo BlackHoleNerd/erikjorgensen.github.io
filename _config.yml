@@ -2,4 +2,4 @@ title: Erik Jorgensen’s Theory of Everything
 theme: jekyll-theme-minimal
 nav:
   - Home: index.html
-  - Episodes: videos.md
+  - Episodes: videos.html
