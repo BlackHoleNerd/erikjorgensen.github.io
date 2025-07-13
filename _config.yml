@@ -1,6 +1,5 @@
-title: Erik Jorgensen’s Science Series
+title: Erik Jorgensen’s Theory of Everything
 theme: jekyll-theme-minimal
 nav:
-  - Main: index.html
-  - Home: index.md
+  - Home: index.html
   - Episodes: videos.md
